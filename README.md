@@ -22,9 +22,6 @@ Logic gates are among the main components of an electronic circuit. Logic gates 
 Until today, no one had created a product for a normal user to interact with gates. We created a product for a normal user to interact with logic gates so that anyone can work with logic gates, challenge their creativity, learn how to work with gates, and know exactly how they work.
 This product works with a terminal environment and is similar to a programming language.
 
-> **Why the name ROZ?** 
-> The name "ROZ" represents the dawn of a new, simplified way to interact with complex digital logic. It also nods to the creator, **Thirtexe**.
-
 ### ⚙️ Installation
 
 First, download the file suitable for your operating system:
@@ -97,9 +94,6 @@ This command is new and does not exist in reality. This gate takes one input and
 ### 💡 محصول
 تا به امروز هیچ کسی محصولی برای تعامل یک کاربر عادی با گیت‌ها نساخته بود. ما محصولی برای تعامل یک کاربر عادی با گیت‌های منطقی ساختیم تا هرکسی بتواند با گیت‌های منطقی کار کند، خلاقیت خود را به چالش بکشد، کار با گیت‌ها را یاد بگیرد و بداند که دقیقا آنها چگونه کار می‌کنند.
 این محصول با محیط ترمینالی کار می‌کند و شبیه یک زبان برنامه‌نویسی است.
-
-> **چرا اسم ROZ؟**
-> نام "ROZ" نماد طلوع یک روش جدید و ساده‌تر برای تعامل با منطق دیجیتال پیچیده است. این نام همچنین اشاره‌ای به سازنده، یعنی **Thirtexe** دارد.
 
 ### ⚙️ نصب
 
