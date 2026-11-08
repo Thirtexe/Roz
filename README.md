@@ -24,7 +24,7 @@ Until today, no one had created a product for a normal user to interact with gat
 ### ✨ What's New in Version 0.2?
 In this version, Roz has become much more powerful with the addition of a **Text Editor**, **File Management**, and **Undo/Redo** capabilities.
 
-*   **Built-in Editor:** Use the `editor` command to open a full-screen text editor with line numbers, syntax highlighting, and a status bar.
+*   **Built-in Editor:** Use the `editor` command to open a full-screen text editor with line numbers and a status bar.
 *   **File Operations:** You can now open and save your `.roz` files.
     *   `open <filename>`: Opens an existing `.roz` file.
     *   `save`: Saves the current changes to the open file.
@@ -106,7 +106,7 @@ This command is new and does not exist in reality. This gate takes one input and
 ### ✨ چه چیز جدیدی در نسخه 0.2 اضافه شده؟
 در این نسخه، Roz با اضافه شدن **ویرایشگر متنی**، **مدیریت فایل** و قابلیت **Undo/Redo** بسیار قدرتمندتر شده است.
 
-*   **ویرایشگر داخلی:** با دستور `editor` یک محیط تمام‌صفحه و زیبا با شماره خطوط، رنگ‌آمیزی کلمات کلیدی و نوار وضعیت باز می‌شود.
+*   **ویرایشگر داخلی:** با دستور `editor` یک محیط تمام‌صفحه و زیبا با شماره خطوط و نوار وضعیت باز می‌شود.
 *   **عملیات فایل:** حالا می‌توانید فایل‌های `.roz` خود را باز و ذخیره کنید.
     *   `open <filename>`: یک فایل `.roz` موجود را باز می‌کند.
     *   `save`: تغییرات فعلی را در فایل باز شده ذخیره می‌کند.
