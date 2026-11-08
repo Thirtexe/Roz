@@ -1,6 +1,6 @@
 <div align="center">
   
-#  ⚡ ROZ 
+#   ROZ 
 **A Simulated Environment for Logic Gates / یک محیط شبیه‌سازی شده برای گیت‌های منطقی**
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-blue.svg)]()
