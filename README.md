@@ -1,5 +1,4 @@
 <div align="center">
-<img width="1368" height="768" alt="roz" src="https://github.com/user-attachments/assets/5de89ba7-0943-4726-b36d-72c385e5f217" />
   
 #   ROZ 
 **A Simulated Environment for Logic Gates / یک محیط شبیه‌سازی شده برای گیت‌های منطقی**
@@ -7,7 +6,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-blue.svg)]()
 [![Python](https://img.shields.io/badge/Python-3.x-yellow.svg)]()
 [![License](https://img.shields.io/badge/License-PolyForm%20Noncommercial-blue.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
-
+<img width="1368" height="768" alt="roz" src="https://github.com/user-attachments/assets/5de89ba7-0943-4726-b36d-72c385e5f217" />
 </div>
 
 ---
