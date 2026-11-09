@@ -29,7 +29,7 @@ In this version, Roz has become much more powerful with the addition of a **Text
     *   `open <filename>`: Opens an existing `.roz` file.
     *   `save`: Saves the current changes to the open file.
 *   **Important Note on Saving:** If you type code directly in the terminal without opening a file first (Virtual mode), **you cannot save it**. You must first create a `.roz` file, open it using the `open` command, and then write or edit your code.
-*   **Quick Exit:** The new `fe` (Force Exit) command closes the current file immediately without prompting to save. Use this if you want to discard changes.
+*   **Quick Exit:** The new `fe` (Fast Exit) command closes the current file immediately without prompting to save. Use this if you want to discard changes.
 *   **Undo & Redo:** Use `undo` and `redo` commands to navigate through your recent actions.
 
 ### ⚙️ Installation
@@ -111,7 +111,7 @@ This command is new and does not exist in reality. This gate takes one input and
     *   `open <filename>`: یک فایل `.roz` موجود را باز می‌کند.
     *   `save`: تغییرات فعلی را در فایل باز شده ذخیره می‌کند.
 *   **نکته مهم درباره ذخیره‌سازی:** اگر کد را مستقیماً در ترمینال بنویسید و از قبل فایلی را باز نکرده باشید (حالت Virtual)، **امکان ذخیره وجود ندارد**. شما باید ابتدا یک فایل با پسوند `.roz` بسازید، با دستور `open` آن را باز کنید و سپس شروع به نوشتن کنید.
-*   **خروج سریع:** دستور جدید `fe` (Force Exit) بلافاصله فایل فعلی را بدون پرسیدن سوال برای ذخیره، می‌بندد. اگر می‌خواهید تغییرات را دور بریزید، از این دستور استفاده کنید.
+*   **خروج سریع:** دستور جدید `fe` (Fast Exit) بلافاصله فایل فعلی را بدون پرسیدن سوال برای ذخیره، می‌بندد. اگر می‌خواهید تغییرات را دور بریزید، از این دستور استفاده کنید.
 *   **Undo و Redo:** از دستورات `undo` و `redo` برای برگشت و جلو رفتن در کارهای اخیرتان استفاده کنید.
 
 ### ⚙️ نصب
