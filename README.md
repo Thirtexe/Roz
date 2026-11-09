@@ -1,4 +1,5 @@
 <div align="center">
+<img width="1368" height="768" alt="roz" src="https://github.com/user-attachments/assets/5de89ba7-0943-4726-b36d-72c385e5f217" />
   
 #   ROZ 
 **A Simulated Environment for Logic Gates / یک محیط شبیه‌سازی شده برای گیت‌های منطقی**
