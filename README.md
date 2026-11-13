@@ -1,13 +1,12 @@
 <div align="center">
   
-#   ROZ 
+#  ⚡ ROZ 
 **A Simulated Environment for Logic Gates / یک محیط شبیه‌سازی شده برای گیت‌های منطقی**
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-blue.svg)]()
 [![Python](https://img.shields.io/badge/Python-3.x-yellow.svg)]()
 [![License](https://img.shields.io/badge/License-PolyForm%20Noncommercial-blue.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 
-<img width="1368" height="768" alt="roz" src="https://github.com/user-attachments/assets/5de89ba7-0943-4726-b36d-72c385e5f217" />
 </div>
 
 ---
@@ -22,22 +21,21 @@ Logic gates are the main components of an electronic circuit. Based on 0 and 1 i
 ### 💡 The Product
 Until today, no one had created a product for a normal user to interact with gates. We created a product for a normal user to interact with logic gates so that anyone can work with logic gates, challenge their creativity, learn how to work with gates, and know exactly how they work. This product works with a terminal environment and is similar to a programming language.
 
-### ✨ What's New in Version 0.2?
-In this version, Roz has become much more powerful with the addition of a **Text Editor**, **File Management**, and **Undo/Redo** capabilities.
+### ✨ What's New in last Version?
 
-*   **Built-in Editor:** Use the `editor` command to open a full-screen text editor with line numbers and a status bar.
-*   **File Operations:** You can now open and save your `.roz` files.
-    *   `open <filename>`: Opens an existing `.roz` file.
-    *   `save`: Saves the current changes to the open file.
-*   **Important Note on Saving:** If you type code directly in the terminal without opening a file first (Virtual mode), **you cannot save it**. You must first create a `.roz` file, open it using the `open` command, and then write or edit your code.
-*   **Quick Exit:** The new `fe` (Fast Exit) command closes the current file immediately without prompting to save. Use this if you want to discard changes.
-*   **Undo & Redo:** Use `undo` and `redo` commands to navigate through your recent actions.
+*   **Built-in Editor**
+*   **syntax highlighting**
+*   **File Operations:** 
+*   **Important Note on Saving:**
+*   **Quick Exit:**
+*   **Variable (Learn in the relevant explanation version)**
+*   **Undo & Redo:**
 
 ### ⚙️ Installation
 
 First, download the file suitable for your operating system:
-*   **Windows (64-bit):** `Roz-(version).exe`
-*   **Linux (64-bit):** `Roz-(version).AppImage`
+*   **Windows (64-bit):** `(filename).exe`
+*   **Linux (64-bit):** `(filename).AppImage`
 
 **Windows:**
 After downloading, right-click on the downloaded file and run it. You will enter the Windows terminal. The program opens a terminal for you to execute your commands in it.
@@ -45,11 +43,11 @@ After downloading, right-click on the downloaded file and run it. You will enter
 **Linux:**
 After downloading, grant execute permission to the file:
 ```bash
-chmod +x Roz-(version).AppImage
+chmod +x (filename).AppImage
 ```
 Then, open the terminal in the file's path and execute it:
 ```bash
-./Roz-(version).AppImage
+./(filename).AppImage
 ```
 
 ### 📖 Tutorial
@@ -104,21 +102,20 @@ This command is new and does not exist in reality. This gate takes one input and
 ### 💡 محصول
 تا به امروز هیچ کسی محصولی برای تعامل یک کاربر عادی با گیت‌ها نساخته بود. ما محصولی برای تعامل یک کاربر عادی با گیت‌های منطقی ساختیم تا هرکسی بتواند با گیت‌های منطقی کار کند، خلاقیت خود را به چالش بکشد، کار با گیت‌ها را یاد بگیرد و بداند که دقیقا آنها چگونه کار می‌کنند. این محصول با محیط ترمینالی کار می‌کند و شبیه یک زبان برنامه‌نویسی است.
 
-### ✨ چه چیز جدیدی در نسخه 0.2 اضافه شده؟
-در این نسخه، Roz با اضافه شدن **ویرایشگر متنی**، **مدیریت فایل** و قابلیت **Undo/Redo** بسیار قدرتمندتر شده است.
+### ✨ چه چیز جدیدی در آخرین نسخه اضافه شده؟
 
-*   **ویرایشگر داخلی:** با دستور `editor` یک محیط تمام‌صفحه و زیبا با شماره خطوط و نوار وضعیت باز می‌شود.
-*   **عملیات فایل:** حالا می‌توانید فایل‌های `.roz` خود را باز و ذخیره کنید.
-    *   `open <filename>`: یک فایل `.roz` موجود را باز می‌کند.
-    *   `save`: تغییرات فعلی را در فایل باز شده ذخیره می‌کند.
-*   **نکته مهم درباره ذخیره‌سازی:** اگر کد را مستقیماً در ترمینال بنویسید و از قبل فایلی را باز نکرده باشید (حالت Virtual)، **امکان ذخیره وجود ندارد**. شما باید ابتدا یک فایل با پسوند `.roz` بسازید، با دستور `open` آن را باز کنید و سپس شروع به نوشتن کنید.
-*   **خروج سریع:** دستور جدید `fe` (Fast Exit) بلافاصله فایل فعلی را بدون پرسیدن سوال برای ذخیره، می‌بندد. اگر می‌خواهید تغییرات را دور بریزید، از این دستور استفاده کنید.
-*   **Undo و Redo:** از دستورات `undo` و `redo` برای برگشت و جلو رفتن در کارهای اخیرتان استفاده کنید.
+*   **ویرایشگر داخلی:**
+*   **رنگ‌آمیزی کلمات کلیدی**
+*   **عملیات فایل:** 
+*   **نکته مهم درباره ذخیره‌سازی:**
+*   **خروج سریع:**
+*   **متغیر (آموزش در توضیحات نسخه مربوطه)**
+*   **Undo و Redo:**
 
 ### ⚙️ نصب
 در مرحله اول فایل مناسب سیستم‌عامل خود را دانلود کنید:
-*   **ویندوز (۶۴بیتی):** `Roz-(version).exe`
-*   **لینوکس (۶۴بیتی):** `Roz-(version).AppImage`
+*   **ویندوز (۶۴بیتی):** `(filename).exe`
+*   **لینوکس (۶۴بیتی):** `(filename).AppImage`
 
 **ویندوز:**
 بعد از دانلود روی فایل دانلود شده کلیک‌راست کنید و فایل را اجرا کنید. بعد از این شما وارد ترمینال ویندوز می‌شوید. برنامه برای شما یک ترمینال باز می‌کند تا در آن دستورات خود را اجرا کنید.
@@ -126,11 +123,11 @@ This command is new and does not exist in reality. This gate takes one input and
 **لینوکس:**
 بعد از دانلود به فایل اجازه اجرا را بدهید:
 ```bash
-chmod +x Roz-(version).AppImage
+chmod +x (filename).AppImage
 ```
 بعد از اجازه اجرا، در مسیر فایل ترمینال را باز کنید و با دستور زیر فایل را اجرا کنید:
 ```bash
-./Roz-(version).AppImage
+./(filename).AppImage
 ```
 
 ### 📖 آموزش
@@ -182,5 +179,6 @@ AND(AND(1,1), 0)
 [![GitHub](https://img.shields.io/badge/GitHub-Thirtexe-black?style=flat-square&logo=github)](https://github.com/Thirtexe)
 [![Telegram](https://img.shields.io/badge/Telegram-Thirtexe-blue?style=flat-square&logo=telegram)](https://t.me/Thirtexe)
 [![Email](https://img.shields.io/badge/Email-Thirtexe@gmail.com-red?style=flat-square&logo=gmail)](mailto:Thirtexe@gmail.com)
+[![Telegram Community](https://img.shields.io/badge/Telegram-@DotChatc-yellow?style=flat-square&logo=telegram)](https://t.me/DotChatc)
 
 </div>
