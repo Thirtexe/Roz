@@ -1,0 +1,17 @@
+# Roz
+
+> Roz is a free terminal-based logic gate simulator for Windows (64-bit) and Linux (64-bit). Users type gate expressions such as AND(1, 1), nest gates, and print results with the LOG command.
+
+## Docs
+
+- [README (English)](https://github.com/Thirtexe/Roz/blob/main/README.md): Installation, syntax, gate reference, truth table and FAQ
+- [README (فارسی)](https://github.com/Thirtexe/Roz/blob/main/README.fa.md): Persian documentation
+
+## Downloads
+
+- [Releases](https://github.com/Thirtexe/Roz/releases): Roz-Full.exe (Windows) and Roz-Full.AppImage (Linux)
+
+## Optional
+
+- [Author on GitHub](https://github.com/Thirtexe)
+- [License: PolyForm Noncommercial 1.0.0](https://github.com/Thirtexe/Roz/blob/main/LICENSE)
