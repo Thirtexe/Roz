@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use Roz, please cite it as below."
+title: "Roz: A Simulated Terminal Environment for Logic Gates"
+type: software
+abstract: >-
+  Roz is a terminal-based logic gate simulator for Windows and Linux. It
+  supports AND, OR, NOT, NAND, NOR, XOR and XNOR gates, nested expressions and
+  a LOG command, so that students and hobbyists can learn how logic gates work.
+authors:
+  - alias: "Thirtexe"
+repository-code: "https://github.com/Thirtexe/Roz"
+url: "https://github.com/Thirtexe/Roz"
+license: PolyForm-Noncommercial-1.0.0
+keywords:
+  - logic gates
+  - logic gate simulator
+  - digital logic
+  - terminal
+  - education
